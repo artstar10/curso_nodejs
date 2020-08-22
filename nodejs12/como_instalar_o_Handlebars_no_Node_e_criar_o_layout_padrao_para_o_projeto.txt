@@ -1,0 +1,5 @@
+Node.js #12 - Como instalar o Handlebars no Node e criar o layout padrão html para o projeto
+
+documentação do handlebarsjs https://handlebarsjs.com/
+
+status do curso:feito

@@ -1,0 +1,4 @@
+Node.js #10 - Como apagar registro no banco de dados MySQL com Node
+
+
+status do curso:feito

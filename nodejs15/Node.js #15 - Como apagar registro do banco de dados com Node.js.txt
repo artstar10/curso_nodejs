@@ -1,0 +1,5 @@
+Node.js #15 - Como apagar registro do banco de dados com Node.js
+
+status do curso: concluido
+
+status do curso: feito

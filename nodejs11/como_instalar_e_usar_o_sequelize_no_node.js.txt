@@ -1,0 +1,5 @@
+Node.js #11 - Como instalar e usar o Sequelize no Node.js
+
+documentação do sequelize para seguir e criar tabelas: https://sequelize.org/master/manual/getting-started
+
+status do curso:feito

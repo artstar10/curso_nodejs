@@ -1,0 +1,5 @@
+Node.js #14 - Como listar registros do banco de dados mysql com Node.js
+
+status do curso: concluido
+
+proximo curso: 15 a fazer

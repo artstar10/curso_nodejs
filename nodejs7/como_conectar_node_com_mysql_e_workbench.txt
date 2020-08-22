@@ -1,0 +1,4 @@
+Node.js #7 - Node + MySQL + Workbench - Como conectar o Node com banco de dados
+
+
+status do curso:feito
