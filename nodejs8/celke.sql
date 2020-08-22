@@ -60,7 +60,7 @@ CREATE TABLE `users` (
 
 LOCK TABLES `users` WRITE;
 /*!40000 ALTER TABLE `users` DISABLE KEYS */;
-INSERT INTO `users` VALUES (1,'Cesar','cesar@celke.com.br'),(2,'Kelly','kelly@celke.com.br'),(3,'Jessica','jessica@celke.com.br');
+INSERT INTO `users` VALUES (1,'Arthur','arthur@programmer.com.br'),(2,'Fulano','Fulano@programmer.com.br'),(3,'estagiario','estagiario@programmer.com.br');
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
